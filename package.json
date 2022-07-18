@@ -1,0 +1,25 @@
+{
+  "name": "parcel-transformer-litcss",
+  "version": "0.1.2",
+  "type": "commonjs",
+  "description": "import .lit.css files as css template literals for lit",
+  "author": "Vignesh <vignesh-p@outlook.com>",
+  "main": "index.cjs",
+  "engines": {
+    "parcel": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneshpa/parcel-transformer-litcss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vigneshpa/parcel-transformer-litcss/issues"
+  },
+  "homepage": "https://github.com/vigneshpa/parcel-transformer-litcss#readme",
+  "license": "MIT",
+  "peerDependencies": {
+    "@parcel/plugin": "^2.6.2",
+    "@parcel/utils": "^2.6.2",
+    "@parcel/css": "^1.10.1"
+  }
+}
